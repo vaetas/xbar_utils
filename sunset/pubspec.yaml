@@ -1,0 +1,14 @@
+name: sunset
+version: 0.1.0
+description: Show sunrise & sunset in your xbar
+homepage: https://github.com/vaetas/sunset
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies: 
+  http: ^0.13.4
+  intl: ^0.17.0
+  
+dev_dependencies: 
+  lints: ^2.0.0
